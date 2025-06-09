@@ -1,0 +1,302 @@
+[
+  {
+    "state": "Alabama",
+    "address": "600 Dexter Avenue, Montgomery, AL 36130",
+    "latitude": 32.3774472,
+    "longitude": -86.3009417
+  },
+  {
+    "state": "Alaska",
+    "address": "120 4th Street, Juneau, AK 99801",
+    "latitude": 58.3021972,
+    "longitude": -134.4104667
+  },
+  {
+    "state": "Arizona",
+    "address": "1700 W Washington Street, Phoenix, AZ 85007",
+    "latitude": 33.4480972,
+    "longitude": -112.0970944
+  },
+  {
+    "state": "Arkansas",
+    "address": "500 Woodlane Street, Little Rock, AR 72201",
+    "latitude": 34.7467583,
+    "longitude": -92.2887611
+  },
+  {
+    "state": "California",
+    "address": "1010 L Street, Sacramento, CA 95814",
+    "latitude": 38.5765722,
+    "longitude": -121.4934111
+  },
+  {
+    "state": "Colorado",
+    "address": "200 E Colfax Avenue, Denver, CO 80203",
+    "latitude": 39.7390944,
+    "longitude": -104.9848972
+  },
+  {
+    "state": "Connecticut",
+    "address": "210 Capitol Avenue, Hartford, CT 06106",
+    "latitude": 41.7641361,
+    "longitude": -72.68278
+  },
+  {
+    "state": "Delaware",
+    "address": "411 Legislative Avenue, Dover, DE 19901",
+    "latitude": 39.157306,
+    "longitude": -75.51972
+  },
+  {
+    "state": "Florida",
+    "address": "400 S Monroe Street, Tallahassee, FL 32399",
+    "latitude": 30.438111,
+    "longitude": -84.2816
+  },
+  {
+    "state": "Georgia",
+    "address": "206 Washington Street SW, Atlanta, GA 30334",
+    "latitude": 33.7492722,
+    "longitude": -84.3882611
+  },
+  {
+    "state": "Hawaii",
+    "address": "415 S Beretania Street, Honolulu, HI 96813",
+    "latitude": 21.3073417,
+    "longitude": -157.8572667
+  },
+  {
+    "state": "Idaho",
+    "address": "700 W Jefferson Street, Boise, ID 83702",
+    "latitude": 43.6176972,
+    "longitude": -116.1996139
+  },
+  {
+    "state": "Illinois",
+    "address": "401 S 2nd Street, Springfield, IL 62701",
+    "latitude": 39.7985167,
+    "longitude": -89.654889
+  },
+  {
+    "state": "Indiana",
+    "address": "200 W Washington Street, Indianapolis, IN 46204",
+    "latitude": 39.76861,
+    "longitude": -86.1625
+  },
+  {
+    "state": "Iowa",
+    "address": "1007 E Grand Avenue, Des Moines, IA 50319",
+    "latitude": 41.5911778,
+    "longitude": -93.6038694
+  },
+  {
+    "state": "Kansas",
+    "address": "300 W 10th Avenue, Topeka, KS 66612",
+    "latitude": 39.0480083,
+    "longitude": -95.6781556
+  },
+  {
+    "state": "Kentucky",
+    "address": "700 Capitol Avenue, Frankfort, KY 40601",
+    "latitude": 38.186778,
+    "longitude": -84.875333
+  },
+  {
+    "state": "Louisiana",
+    "address": "900 N 3rd Street, Baton Rouge, LA 70802",
+    "latitude": 30.4570722,
+    "longitude": -91.1874056
+  },
+  {
+    "state": "Maine",
+    "address": "210 State Street, Augusta, ME 04330",
+    "latitude": 44.3072361,
+    "longitude": -69.7816778
+  },
+  {
+    "state": "Maryland",
+    "address": "100 State Circle, Annapolis, MD 21401",
+    "latitude": 38.97861,
+    "longitude": -76.49111
+  },
+  {
+    "state": "Massachusetts",
+    "address": "24 Beacon Street, Boston, MA 02133",
+    "latitude": 42.3577083,
+    "longitude": -71.0635639
+  },
+  {
+    "state": "Michigan",
+    "address": "100 N Capitol Avenue, Lansing, MI 48933",
+    "latitude": 42.7337278,
+    "longitude": -84.5555889
+  },
+  {
+    "state": "Minnesota",
+    "address": "95 University Ave W, St Paul, MN 55103",
+    "latitude": 44.9551472,
+    "longitude": -93.1022361
+  },
+  {
+    "state": "Mississippi",
+    "address": "400 High Street, Jackson, MS 39201",
+    "latitude": 32.30389,
+    "longitude": -90.18222
+  },
+  {
+    "state": "Missouri",
+    "address": "201 W Capitol Avenue, Jefferson City, MO 65101",
+    "latitude": 38.5791194,
+    "longitude": -92.1729917
+  },
+  {
+    "state": "Montana",
+    "address": "Old Livestock, 1310 Lockey Ave, Helena, MT 59601",
+    "latitude": 46.5857,
+    "longitude": -112.01985
+  },
+  {
+    "state": "Nebraska",
+    "address": "1445 K Street, Lincoln, NE 68508",
+    "latitude": 40.8080889,
+    "longitude": -96.6995861
+  },
+  {
+    "state": "Nevada",
+    "address": "101 N Carson Street, Carson City, NV 89701",
+    "latitude": 39.164075,
+    "longitude": -119.7662917
+  },
+  {
+    "state": "New Hampshire",
+    "address": "107 N Main Street, Concord, NH 03301",
+    "latitude": 43.2067472,
+    "longitude": -71.5381278
+  },
+  {
+    "state": "New Jersey",
+    "address": "125 W State Street, Trenton, NJ 08608",
+    "latitude": 40.2204361,
+    "longitude": -74.7699028
+  },
+  {
+    "state": "New Mexico",
+    "address": "490 Old Santa Fe Trail, Santa Fe, NM 87501",
+    "latitude": 35.6822806,
+    "longitude": -105.9396583
+  },
+  {
+    "state": "New York",
+    "address": "State Street & Washington Avenue, Albany, NY 12224",
+    "latitude": 42.6525528,
+    "longitude": -73.7573222
+  },
+  {
+    "state": "North Carolina",
+    "address": "1 E Edenton Street, Raleigh, NC 27601",
+    "latitude": 35.78028,
+    "longitude": -78.63917
+  },
+  {
+    "state": "North Dakota",
+    "address": "600 E Boulevard Avenue, Bismarck, ND 58505",
+    "latitude": 46.8208139,
+    "longitude": -100.7827417
+  },
+  {
+    "state": "Ohio",
+    "address": "44-62 S High St, Columbus, OH 43215, United States",
+    "latitude": 39.96085,
+    "longitude": -83.00030
+  },
+  {
+    "state": "Oklahoma",
+    "address": "2300 N Lincoln Boulevard, Oklahoma City, OK 73105",
+    "latitude": 35.4922806,
+    "longitude": -97.5033722
+  },
+  {
+    "state": "Oregon",
+    "address": "900 Court Street NE, Salem, OR 97301",
+    "latitude": 44.9387306,
+    "longitude": -123.0300972
+  },
+  {
+    "state": "Pennsylvania",
+    "address": "501 N 3rd Street, Harrisburg, PA 17120",
+    "latitude": 40.26444,
+    "longitude": -76.86667
+  },
+  {
+    "state": "Rhode Island",
+    "address": "82 Smith Street, Providence, RI 02908",
+    "latitude": 41.83083,
+    "longitude": -71.415
+  },
+  {
+    "state": "South Carolina",
+    "address": "1100 Gervais Street, Columbia, SC 29201",
+    "latitude": 34.0004333,
+    "longitude": -81.0331472
+  },
+  {
+    "state": "South Dakota",
+    "address": "500 E Capitol Avenue, Pierre, SD 57501",
+    "latitude": 44.367167,
+    "longitude": -100.3463528
+  },
+  {
+    "state": "Tennessee",
+    "address": "401 7th Ave N, Nashville, TN 37219, United States",
+    "latitude": 36.16583,
+    "longitude": -86.78417
+  },
+  {
+    "state": "Texas",
+    "address": "1100 Congress Avenue, Austin, TX 78701",
+    "latitude": 30.27472,
+    "longitude": -97.74056
+  },
+  {
+    "state": "Utah",
+    "address": "350 State Street, Salt Lake City, UT 84114",
+    "latitude": 40.77722,
+    "longitude": -111.88806
+  },
+  {
+    "state": "Vermont",
+    "address": "115 State Street, Montpelier, VT 05633",
+    "latitude": 44.26222,
+    "longitude": -72.58083
+  },
+  {
+    "state": "Virginia",
+    "address": "1000 Bank Street, Richmond, VA 23219",
+    "latitude": 37.5387583,
+    "longitude": -77.4335944
+  },
+  {
+    "state": "Washington",
+    "address": "302 Sid Snyder Ave SW, Olympia, WA 98501, United States",
+    "latitude": 47.03528,
+    "longitude": -122.90639
+  },
+  {
+    "state": "West Virginia",
+    "address": "1900 Kanawha Boulevard E, Charleston, WV 25305",
+    "latitude": 38.33639,
+    "longitude": -81.61222
+  },
+  {
+    "state": "Wisconsin",
+    "address": "2 E Main Street, Madison, WI 53703",
+    "latitude": 43.07444,
+    "longitude": -89.38472
+  },
+  {
+    "state": "Wyoming",
+    "address": "200 W 24th Street, Cheyenne, WY 82002",
+    "latitude": 41.14028,
+    "longitude": -104.81972
+  }
+]
